@@ -1,6 +1,7 @@
 {"urls": [
 {"url": "https://raw.githubusercontent.com/lemonguo121/BoxRes/refs/heads/main/Myuse/catcr.json","name":"catcr"},
 {"url": "https://raw.githubusercontent.com/bizhangjie/CatVodSpider/refs/heads/main/json/index18.json","name":"index18"},
+{"url": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","name":"黑木耳"},
 {"url": "http://ok.lfytv.cn/fm.json","name":"FM0720"},
 {"url": "http://47.96.82.41:6137/xgg.json","name":"xgg"},
 {"url": "https://www.252035.xyz/p/jsm.json?pwd=18x","name":"18x"},
