@@ -1,4 +1,5 @@
 {"urls": [
+{"url": "file://lmw/lmw.json","name":"lmw"},
 {"url": "file://tvbox/adult/adult.json","name":"FongMi adult Local"},
 {"url": "file://tvbox/fengmi/fengmi.json","name":"FongMi Local"},
 {"url": "file://tvbox/tangsan/tangsan.json","name":"唐三Local"},
